@@ -6,3 +6,6 @@ function update(){
     balance=balance+5000;
     console.log(balance);
 }
+update();
+console.log(nme);
+console.log("updated ");
