@@ -1,11 +1,11 @@
 const nme=" rahul";
 const age=22;
 const balance=10000;
-const account=123456789;
-function update(){
-    balance=balance+5000;
-    console.log(balance);
+const acc=4500;
+function display(){
+    console.log("name is "+nme);
+    console.log("age is "+age);
+    console.log("balance is "+balance);
+    console.log("account number is "+acc);
 }
-update();
-console.log(nme);
-console.log("updated ");
+display();
