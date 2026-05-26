@@ -30,3 +30,4 @@ function feauture(){
 function newfeature(){
     console.log("this is a new feature");
 }newfeature();
+console.log("first code in github acc");
