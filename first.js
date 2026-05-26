@@ -13,3 +13,7 @@ function Bugfix(){
     console.log("bug fixed");
 }
 Bugfix();
+function payfeature(){
+    console.log("pay feature added");
+}
+payfeature();
