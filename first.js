@@ -9,3 +9,7 @@ function display(){
     console.log("account number is "+acc);
 }
 display();
+function Bugfix(){
+    console.log("bug fixed");
+}
+Bugfix();
